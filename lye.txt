@@ -1,0 +1,125 @@
+Certified Lye™
+High-Quality Sodium Hydroxide (NaOH) and Potassium Hydroxide (KOH) for Making Soap
+Home • Buy Lye • Buy Protection • Safety Precautions • SDS for Lye • Site Map • Policies
+
+Using SAP Values and Lye to Make Soap
+Lye Calculator & Recipe Formulator
+Lye Calculator & Recipe Formulator This Lye Calculator & Recipe Formulator calculates the amount of lye needed to make a specific batch of soap. This lye calculator allows the user to add oils and their exact saponification values. It also provides options for instructions, lye discount, superfat, and water portions.
+
+Making Soap
+The following information, Chart of Saponification Values for Making Soap, and Cold Process Soap Recipe have been provided by Pallas Athene Soap.
+
+Saponification
+Saponification is the chemical process of making soap that involves an exothermic reaction between lye (sodium hydroxide) and a fat (usually oils). What is commonly known as cold process soap making yields a glycerin-rich soap, which used to be referred to as lye soap. People often think of lye soap as a soap that is unpleasant to use because too much lye was used in the soap formula and lye (sodium hydroxide) remained in the bar of soap to irritate and burn the skin. Soap cannot be made without using lye. When made correctly, no lye will remain in the bar of soap.
+
+Historic "Lye Soap"
+Throughout history, soap was made by rendering available animal fats and adding natural lye (leached from ashes) to make soap. Without the scientific data readily available today, the soap makers of yesteryear approximated the amount of lye to add to the fats. If not enough lye was added, with too many fats remaining, the mixture would separate, not be useable, and the effort and time of preparation would be wasted. If too much lye was added, some extra lye would remain in the soap but the soap could be used. Therefore, the preference was to add extra lye to ensure the soap would be useable. However, the extra lye remaining in the bar of soap made it unpleasant to use because it would often irritate or burn the skin.
+
+Saponification Value
+Today, with easy access to the exact composition of a fat and the molecular weight of a fat, it is easy to determine the exact amount of lye needed to completely saponify a measured amount of a specific fat, so there will not be any extra lye in the soap and the soap will not irritate the skin. The number of milligrams of lye (sodium hydroxide) required to completely saponify one gram of a specific fat is referred to as the saponification value. Note: Laboratories usually refer to the saponification value of potassium hydroxide, not sodium hydroxide. Potassium hydroxide is commonly used to make liquid soap and sodium hydroxide is necessary for making solid bars of soap. The numbers in the chart of saponification values, below, are listed both for lye (sodium hydroxide) and for potassium hydroxide and have been converted from milligrams to be generically applicable to any consistent unit of weight.
+
+Saponification Chart
+The chart, below, lists an average of the known saponification values for specific oils. It was compiled in 2006 by contacting dozens of oil distributors and processors to obtain their most recent and most exact saponification values. Then, the different saponification values for each fat were uniformly converted to NaOH values and were averaged. The precise saponification value for a specific fat must be acquired from the distributor because the exact molecular weight of each fat will vary by crop and processing method. For example, two different olive oils will have slightly different saponification values because the two oils may have been processed from different crops, harvested at different times of the year, and processed by different extraction methods. The values in the chart are the most accurate average saponification values on the Internet and may be trusted to accurately saponify the listed fats. To learn the exact, un-averaged saponification value for a specific fat, contact the distributor.
+
+Measure Consistently by Weight, Not by Volume
+Never measure ingredients by volume, such as by cups or tablespoons. Always measure ingredients by weight, such as by pounds, ounces, or grams. Be sure to use the same unit of measure for all ingredients. Consistently measure both the lye and the fats in ounces, or measure both the lye and the fats in grams. For example, the first fat listed is almond oil, which has a listed lye saponification value of 0.1367. So, it will require 0.1367 of an ounce of lye to saponify one ounce of almond oil. Also, 0.1367 of a gram of lye is needed to saponify one gram of almond oil. Likewise, 0.1367 of a pound of lye will saponify one pound of almond oil.
+
+Calculating and Measuring Water
+Water is needed to dissolve the lye (sodium hydroxide) and for the hydrolysis of the fats. Using too much water may produce soft bars of soap, may demand extra drying time, or may encourage rancidity. Because the water is used to dissolve the lye, the amount of lye will determine the amount of water. To calculate the correct amount of water, first determine the total amount of lye (sodium hydroxide). Divide the amount of lye by 0.3 and then subtract the amount of lye from the result.
+
+(Amount of Fat) × (Saponification Value of the Fat) = (Amount of Lye)
+(Amount of Lye) ÷ 0.3 = (Total Weight of Lye Water Solution)
+(Total Weight of Lye Water Solution) − (Amount of Lye) = (Amount of Water)
+For example, to make just over 2 pounds of olive oil soap, measure 32 ounces of olive oil and 4.33 ounces of lye because 32 ounces of olive oil × 0.1353, which is the saponification value for olive oil, = 4.33 ounces of lye. Next, to calculate the correct amount of water: 4.33 ounces of lye ÷ 0.3 = 14.43, which will be the total weight of the solution (lye and water). Subtract the weight of the lye from the solution (14.43 − 4.33) to get the weight of just the water, which equals 10.10 ounces of water.
+
+Remember, after weighing the lye (sodium hydroxide) and water, always add the lye to the water; never add water to the lye.
+
+Chart of Saponification Values for Making Soap
+Saponification Values for Making Soap with Lye (Sodium Hydroxide) or with Caustic Potash (Potassium Hydroxide)
+Fat or Oil	Lye (Sodium Hydroxide), NaOH	Caustic Potash (Potassium Hydroxide), KOH
+♥ Indicates a fat not from an animal source.
+Animal! Indicates a fat from an animal source.
+
+These saponification values indicate the amount of lye (sodium hydroxide) or the amount of caustic potash (potassium hydroxide) needed to completely saponify the listed fat using consistent units of weight.
+
+Almond Oil ♥	0.1367	0.1925
+Aloe Vera Butter ♥	0.1788	0.2518
+Aloe Vera Oil ♥	0.1421	0.2001
+Apricot Kernel Oil ♥	0.1378	0.1941
+Avocado Butter ♥	0.1339	0.1886
+Avocado Oil ♥	0.1337	0.1883
+Babassu Nut Oil ♥	0.1749	0.2463
+Beeswax Animal!	0.0689	0.0970
+Borage Oil ♥	0.1339	0.1886
+Candelilla Wax ♥	0.0322	0.0454
+Canola Oil ♥	0.1328	0.1870
+Canola Oil, High Oleic Acid ♥	0.1330	0.1873
+Castor Bean Oil ♥	0.1286	0.1811
+Cherry Kernel Oil ♥	0.1389	0.1956
+Chicken Fat Animal!	0.1356	0.1910
+Cocoa Butter ♥	0.1378	0.1941
+Coconut Oil, Refined 76° ♥	0.1910	0.2690
+Coconut Oil, Hydrogenated 92° ♥	0.1910	0.2690
+Coconut Oil, Fractionated/Saturated ♥	0.2321	0.3269
+Copha® Vegetable Shortening ♥	0.1910	0.2690
+Corn Oil ♥	0.1368	0.1927
+Cottonseed Oil ♥	0.1387	0.1954
+Crisco® Vegetable Shortening ♥	0.1369	0.1928
+Emu Oil Animal!	0.1377	0.1939
+Evening Primrose Oil ♥	0.1362	0.1918
+Flaxseed Oil ♥	0.1358	0.1913
+Goat Fat Animal!	0.1382	0.1946
+Goose Fat Animal!	0.1349	0.1900
+Grapeseed Oil ♥	0.1321	0.1861
+Hazelnut Oil ♥	0.1369	0.1928
+Hempseed Oil ♥	0.1359	0.1914
+Jojoba Seed Oil ♥	0.0695	0.0979
+Jojoba Seed Liquid Wax ♥	0.0695	0.0979
+Karite Butter ♥	0.1296	0.1825
+Kremelta® Vegetable Shortening ♥	0.1910	0.2690
+Kukui Nut Oil ♥	0.1351	0.1903
+Lanolin Animal!	0.0748	0.1054
+Lard Animal!	0.1399	0.1970
+Linseed Oil ♥	0.1358	0.1913
+Macadamia Nut Oil ♥	0.1391	0.1959
+Milk Fat Animal!	0.1599	0.2252
+Mink Oil Animal!	0.1403	0.1976
+Monoï de Tahiti Oil ♥	0.1796	0.2530
+Neem Tree Oil ♥	0.1372	0.1932
+Olive Oil ♥	0.1353	0.1906
+Ostrich Oil Animal!	0.1385	0.1951
+Palm Kernel Oil ♥	0.1777	0.2503
+Palm Oil ♥	0.1420	0.2000
+Peach Kernel Oil ♥	0.1361	0.1917
+Peanut Oil ♥	0.1367	0.1925
+Pine Rosin ♥	0.1298	0.1820
+Pumpkin Seed Oil ♥	0.1389	0.1956
+Rapeseed Oil ♥	0.1328	0.1870
+Rice Bran Oil ♥	0.1284	0.1808
+Safflower Oil, High Linoleic Acid ♥	0.1374	0.1935
+Safflower Oil, High Oleic Acid ♥	0.1369	0.1928
+Sesame Seed Oil ♥	0.1336	0.1882
+Shea Butter ♥	0.1296	0.1825
+Soybean Oil ♥	0.1359	0.1914
+Soybean Oil, 27.5% Hydrogenated ♥	0.1361	0.1917
+Stearic Acid, Animal-Source Animal!	0.1413	0.1990
+Stearic Acid, Vegetable-Source ♥	0.1411	0.1987
+Sunflower Seed Oil ♥	0.1358	0.1913
+Sunflower Seed Oil, High Oleic Acid ♥	0.1351	0.1903
+Tallow, Beef Animal!	0.1419	0.1999
+Tallow, Deer Animal!	0.1382	0.1946
+Tallow, Sheep Animal!	0.1384	0.1949
+Tamanu Seed Oil ♥	0.1437	0.2024
+Tiaré Flower Oil ♥	0.1796	0.2530
+Walnut Oil ♥	0.1349	0.1900
+Wheat Germ Oil ♥	0.1319	0.1858
+Cold Process Soap Recipe
+The Pallas Athene Soap company formulated a quick and easy cold process soap recipe that requires exactly 20 ounces of lye (the size of 1 canister from Certified Lye™) and yields a superior bar of natural soap.
+
+41 ounces coconut oil (76°)
+47 ounces olive oil
+47 ounces palm oil
+20 ounces lye (exactly 1 canister from Certified Lye™)
+47 ounces water
+This soap recipe makes a fabulous natural soap that is approximately 30% coconut oil, 35% olive oil, and 35% palm oil. The lye is discounted to 96%, so 4% of the oils will freely remain unsaponified in the soap. Because Certified Lye™ guarantees the accuracy of the net weight of lye in each canister, there is no need to measure or excessively handle the lye when using this recipe; it simply requires one canister of lye. The combined weight of the ingredients is 202 ounces, which requires a soap pot with an 8-quart capacity to allow extra room for stirring. This soap recipe makes approximately 40 regular size bars of soap. When making this soap recipe, all proper safety precautions and soap making procedures should be followed.
+
